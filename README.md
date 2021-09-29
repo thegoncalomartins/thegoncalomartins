@@ -25,13 +25,13 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://dev.to/thegoncalomartins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thegoncalomartins" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thegoncalomartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thegoncalomartins" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7443154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7443154" height="30" width="40" /></a>
-<a href="https://fb.com/thegoncalomartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thegoncalomartins" height="30" width="40" /></a>
-<a href="https://instagram.com/thegoncalomartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegoncalomartins" height="30" width="40" /></a>
-<a href="https://medium.com/@thegoncalomartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thegoncalomartins" height="30" width="40" /></a>
-<a href="https://goncalomartins.dev" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/external-link.png" alt="personalwebsite"  width="40"/>
+<a href="https://dev.to/thegoncalomartins" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thegoncalomartins" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thegoncalomartins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thegoncalomartins" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7443154" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7443154" height="30" width="40" /></a>
+<a href="https://fb.com/thegoncalomartins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thegoncalomartins" height="30" width="40" /></a>
+<a href="https://instagram.com/thegoncalomartins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegoncalomartins" height="30" width="40" /></a>
+<a href="https://medium.com/@thegoncalomartins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thegoncalomartins" height="30" width="40" /></a>
+<a href="https://goncalomartins.dev" target="_blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/external-link.png" alt="personalwebsite"  width="40"/>
 </p>
 
 ## Tech Stack
@@ -52,5 +52,5 @@
 
 ## StackOverflow Stats
 
-<a href="https://stackoverflow.com/users/7443154/thegoncalomartins"><img align="center" src="https://stackoverflow.com/users/flair/7443154.png" width="208" height="58" alt="profile for thegoncalomartins at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for thegoncalomartins at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/7443154/thegoncalomartins" target="_blank"><img align="center" src="https://stackoverflow.com/users/flair/7443154.png" width="208" height="58" alt="profile for thegoncalomartins at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for thegoncalomartins at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
