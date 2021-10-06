@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Gonçalo <img src="https://komarev.com/ghpvc/?username=thegoncalomartins&label=Profile%20views&color=0e75b6&style=flat" alt="thegoncalomartins" /></h1>
+<h1 align="center">Hi there  <img src="./wave.gif" alt="wave" width="30px">, I'm Gonçalo <img src="https://komarev.com/ghpvc/?username=thegoncalomartins&label=Profile%20views&color=0e75b6&style=flat" alt="thegoncalomartins" /></h1>
 <h3 align="center">A mix of software engineer and human being from Portugal 🇵🇹</h3>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegoncalomartins" alt="thegoncalomartins" /></a> </p> -->
