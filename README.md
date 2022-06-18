@@ -50,6 +50,13 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thegoncalomartins&show_icons=true&locale=en&layout=compact&theme=gotham"      alt="thegoncalomartins" />
 
+<br/>
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/thegoncalomartins/count.svg" alt ="Loading">
+
+<br/>
+
 ## StackOverflow Stats
 
 <a href="https://stackoverflow.com/users/7443154/thegoncalomartins" target="_blank"><img align="center" src="https://stackoverflow.com/users/flair/7443154.png" width="208" height="58" alt="profile for thegoncalomartins at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for thegoncalomartins at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
