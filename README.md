@@ -6,13 +6,13 @@
 
 - 🔭 I am currently working as a Backend Software Engineer at **[Talkdesk](https://talkdesk.com)**
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning more and improving my knowledge about Web3 and Cyber Security
 
 - 💬 Ask me about **Software Architecture** and **Software Engineering**
 
-- 📫 How to reach me **goncalocm97@gmail.com**
+- 📫 How to reach me **goncalocmartins@protonmail.com**
 
-- 🌍 Personal **[Website](https://goncalomartins.dev)**
+- 🌍 Personal **[Website](https://thegoncalomartins.github.io)**
 <br/>
 <br/>
 <br/>
@@ -31,7 +31,7 @@
 <a href="https://fb.com/thegoncalomartins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thegoncalomartins" height="30" width="40" /></a>
 <a href="https://instagram.com/thegoncalomartins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thegoncalomartins" height="30" width="40" /></a>
 <a href="https://medium.com/@thegoncalomartins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thegoncalomartins" height="30" width="40" /></a>
-<a href="https://goncalomartins.dev" target="_blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/external-link.png" alt="personalwebsite"  width="40"/>
+<a href="https://thegoncalomartins.github.io" target="_blank"><img align="center" src="https://img.icons8.com/material-outlined/96/000000/external-link.png" alt="personalwebsite"  width="40"/>
 </p>
 
 ## Tech Stack
