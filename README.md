@@ -4,7 +4,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegoncalomartins" alt="thegoncalomartins" /></a> </p> -->
 <img align="right" src="https://github.com/thegoncalomartins/thegoncalomartins/raw/main/bitmojis/1632931419720.png" alt="bitmoji" />
 
-- 🔭 I am currently working as a Backend Software Engineer at **[Talkdesk](https://talkdesk.com)**
+- 🔭 I am currently working as a Backend Software Engineer at **[Revolut](https://revolut.com)**
 
 - 🌱 I’m currently learning more and improving my knowledge about Web3 and Cyber Security
 
