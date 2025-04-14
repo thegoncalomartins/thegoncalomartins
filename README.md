@@ -41,7 +41,6 @@
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Knowledge Base Service With Neo4j, Kafka, and the Outbox Pattern](https://dev.to/thegoncalomartins/building-a-knowledge-base-service-with-neo4j-kafka-and-the-outbox-pattern-460b)
-- [Building a Knowledge Base Service With Neo4j, Kafka, and the Outbox Pattern](https://blog.devgenius.io/building-a-knowledge-base-service-with-neo4j-kafka-and-the-outbox-pattern-9fffeaa284a6?source=rss-f0560476e362------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
